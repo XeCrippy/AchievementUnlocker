@@ -173,6 +173,8 @@ namespace AchievementUnlocker
                     else
                         MessageBox.Show("Failed to find the function address. Check if the game has avatar awards.");
                 }
+                else
+                    MessageBox.Show("Not connected to console!");
             }
             catch(Exception ex)
             {
