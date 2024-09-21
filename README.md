@@ -8,4 +8,4 @@
 - * DO NOT EXIT GAME UNTIL THE PROGRAM FINISHES OR YOUR CONSOLE WILL CRASH. 
 
 # ToDo:
-- Change the buffer address to something in XAM free memory. I made this quick and just used free memory in my plugins memory region. I haven't tested whether it will work without the plugin? Changing to xam free memory would fix if so
+- <s>Change the buffer address to something in XAM free memory. I made this quick and just used free memory in my plugins memory region. I haven't tested whether it will work without the plugin? Changing to xam free memory would fix if so</s>
