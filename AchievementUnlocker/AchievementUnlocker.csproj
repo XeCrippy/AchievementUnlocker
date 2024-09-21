@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="JRPC++">
+      <HintPath>..\..\..\..\Libraries\JRPC++\JRPC++\bin\Release\JRPC++.dll</HintPath>
+    </Reference>
+    <Reference Include="XDevkit">
+      <HintPath>..\..\MW3CbufTesting\MW3CbufTesting\xdevkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
