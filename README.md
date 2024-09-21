@@ -4,3 +4,6 @@
 - You can adjust the range or add a check for specific games
 - I advise turning off notifications on your console while unlocking because it will pop up for every one
 - It's a bit slow so be patient
+
+# ToDo:
+- Change the buffer address to something in XAM free memory. I made this quick and just used free memory in my plugins memory region. I haven't tested whether it will work without the plugin? Changing to xam free memory would fix if so
