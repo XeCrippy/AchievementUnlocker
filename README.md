@@ -1,10 +1,11 @@
-# Ghetto Achievement Unlocker Notes:
+# Ghetto Achievement & Avatar Award Unlocker Notes:
 - Load the game you want to unlock achievements for
 - Does not work for all games. Only searches between 0x82000000 - 0x85000000. Some games may be in 0x89000000 range (like Source Engine games)
 - You can adjust the range or add a check for specific games
 - I advise turning off notifications on your console while unlocking because it will pop up for every one
 - It's a bit slow so be patient
-- Title Updates should not matter. It's using array of byte scan to find the xex function
+- Title Updates should not matter for most achievements but may for some and for some of the avatar awards
+- Not all games have avatar awards
 - * DO NOT EXIT GAME UNTIL THE PROGRAM FINISHES OR YOUR CONSOLE WILL CRASH. 
 
 # ToDo:
